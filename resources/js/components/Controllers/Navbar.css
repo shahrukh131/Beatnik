@@ -1,0 +1,19 @@
+.navbar a:hover {
+    color: #3498db !important;
+}
+
+.nav-link {
+    color: #3498db;
+}
+
+.menu_actives {
+    font-weight: bold;
+}
+
+.nav-link {
+    color: black;
+}
+
+.navbar {
+    border-bottom: 1px solid #e3dcdc;
+}
